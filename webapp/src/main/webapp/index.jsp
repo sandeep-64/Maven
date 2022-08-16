@@ -1,3 +1,3 @@
-<h1> Hello, Sandeep is rich as fuck awosome
+<h1> Hello, Sandeep 
 </h1>
 
